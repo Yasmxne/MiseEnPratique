@@ -1,3 +1,1 @@
-# MiseEnPratique
-
-Je vais au Crous.
+J'aime les pommes
